@@ -6,9 +6,10 @@ I am an innovative and detail-oriented software developer passionate about craft
 
 Driven by the philosophy that technology can transform lives, I see coding as both a craft and a service. I continually seek to refine my skills and embrace challenges, ensuring that each project not only works but also resonates with its users.
 
-- 🌍 Based in Nyeri, Kenya
+
 - 🔗 Connect: [LinkedIn](www.linkedin.com/in/elton-simba-570057290)
-- ✨ Always learning, growing, and striving to leave a meaningful impact.
+
+`  ✨ Always learning, growing, and striving to leave a meaningful impact. `
   
  ---
 ## Languages and Tools
