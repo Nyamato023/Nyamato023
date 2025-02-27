@@ -52,5 +52,15 @@ Driven by the philosophy that technology can transform lives, I see coding as bo
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+<h3 align="left">My Stats:</h3>
+<table>
+  <tr>
+    <td>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyamato023&show_icons=true&locale=en&layout=compact" alt="Nyamato023" /></p>
+    </td>
+    <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyamato023&show_icons=true&locale=en" alt="Nyamato023" /></p>
+    </td>
+  </tr>
+</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
