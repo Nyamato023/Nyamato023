@@ -1,4 +1,4 @@
-# Nyamato Simba
+## Nyamato Simba
 <!-- ---
 **`Developer | Designer`**
 
