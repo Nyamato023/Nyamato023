@@ -1,5 +1,5 @@
 # Nyamato Simba
----
+<!-- ---
 **`Developer | Designer`**
 
 I am an innovative and detail-oriented software developer passionate about crafting scalable, user-focused solutions. With a strong foundation in full-stack web development, I thrive at the intersection of technology and creativity, using tools like Laravel, React, and Tailwind CSS to solve real-world problems.
@@ -62,5 +62,7 @@ Driven by the philosophy that technology can transform lives, I see coding as bo
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyamato023&show_icons=true&locale=en" alt="Nyamato023" /></p>
     </td>
   </tr>
-</table>
+</table> -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+We who cut mere stones must always be envisioning cathedrals
